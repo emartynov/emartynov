@@ -1,0 +1,31 @@
+name: Update profile README
+
+on:
+  schedule:
+    # 32 past the hour as a nod to the article that started the pattern
+    - cron: "32 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://emartynov.medium.com/feed"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
+
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 8
