@@ -10,6 +10,11 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Snapshot-Test Matrix, Two Ways: Parameterized JUnit vs TestBalloon](https://emartynov.medium.com/the-snapshot-test-matrix-two-ways-parameterized-junit-vs-testballoon-d4015c495efc?source=rss-cfb1ab651296------2)
+- [Rethinking Our Snapshot Matrix: Fewer Screenshots, Faster CI](https://emartynov.medium.com/rethinking-our-snapshot-matrix-fewer-screenshots-faster-ci-f2420b71cdba?source=rss-cfb1ab651296------2)
+- [From Spaghetti to Strict: Cleaning Up Gradle Dependencies in a large Android codebase](https://emartynov.medium.com/from-spaghetti-to-strict-cleaning-up-gradle-dependencies-in-a-large-android-codebase-47b72662109d?source=rss-cfb1ab651296------2)
+- [Teaching Claude Code How Your Team Works](https://emartynov.medium.com/teaching-claude-code-how-your-team-works-6e5d14e850aa?source=rss-cfb1ab651296------2)
+- [Pair Programming with Claude Code — What I Learned](https://emartynov.medium.com/pair-programming-with-claude-code-what-i-learned-1271f457ffdc?source=rss-cfb1ab651296------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent activity
