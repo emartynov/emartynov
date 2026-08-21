@@ -20,14 +20,14 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#177](https://github.com/BijdorpStudio/kiban/pull/177) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-2. 🔒 Closed issue [#148](https://github.com/BijdorpStudio/kiban/issues/148) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-3. 🔒 Closed issue [#149](https://github.com/BijdorpStudio/kiban/issues/149) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-4. 🎉 Merged PR [#178](https://github.com/BijdorpStudio/kiban/pull/178) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-5. 💪 Opened PR [#178](https://github.com/BijdorpStudio/kiban/pull/178) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-6. 💪 Opened PR [#177](https://github.com/BijdorpStudio/kiban/pull/177) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-7. 🎉 Merged PR [#176](https://github.com/BijdorpStudio/kiban/pull/176) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-8. 🔒 Closed issue [#147](https://github.com/BijdorpStudio/kiban/issues/147) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+1. 🎉 Merged PR [#184](https://github.com/BijdorpStudio/kiban/pull/184) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+2. 🔒 Closed issue [#152](https://github.com/BijdorpStudio/kiban/issues/152) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+3. 💪 Opened PR [#184](https://github.com/BijdorpStudio/kiban/pull/184) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+4. 🔒 Closed issue [#151](https://github.com/BijdorpStudio/kiban/issues/151) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+5. 🎉 Merged PR [#183](https://github.com/BijdorpStudio/kiban/pull/183) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+6. 💪 Opened PR [#183](https://github.com/BijdorpStudio/kiban/pull/183) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+7. 🎉 Merged PR [#179](https://github.com/BijdorpStudio/kiban/pull/179) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+8. 🔒 Closed issue [#180](https://github.com/BijdorpStudio/kiban/issues/180) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 <!--END_SECTION:activity-->
 
 <sub>Sections above update themselves daily via GitHub Actions — the pattern from
