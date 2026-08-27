@@ -20,14 +20,14 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3568](https://github.com/wiremock/wiremock/issues/3568) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
-2. ❗ Opened issue [#3568](https://github.com/wiremock/wiremock/issues/3568) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
-3. ℹ️ Labeled issue [#215](https://github.com/sonatype/scan-gradle-plugin/issues/215) in [sonatype/scan-gradle-plugin](https://github.com/sonatype/scan-gradle-plugin)
-4. ❗ Opened issue [#215](https://github.com/sonatype/scan-gradle-plugin/issues/215) in [sonatype/scan-gradle-plugin](https://github.com/sonatype/scan-gradle-plugin)
-5. 🗣 Commented on [#2455](https://github.com/InsertKoinIO/koin/issues/2455#issuecomment-5392438160) in [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)
-6. 🎉 Merged PR [#191](https://github.com/BijdorpStudio/kiban/pull/191) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-7. 🔒 Closed issue [#160](https://github.com/BijdorpStudio/kiban/issues/160) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-8. 💪 Opened PR [#191](https://github.com/BijdorpStudio/kiban/pull/191) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+1. 🎉 Merged PR [#192](https://github.com/BijdorpStudio/kiban/pull/192) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+2. 🔒 Closed issue [#161](https://github.com/BijdorpStudio/kiban/issues/161) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+3. 💪 Opened PR [#193](https://github.com/BijdorpStudio/kiban/pull/193) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+4. 💪 Opened PR [#192](https://github.com/BijdorpStudio/kiban/pull/192) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+5. 🗣 Commented on [#322](https://github.com/jraska/modules-graph-assert/issues/322#issuecomment-5421440383) in [jraska/modules-graph-assert](https://github.com/jraska/modules-graph-assert)
+6. ℹ️ Labeled issue [#3568](https://github.com/wiremock/wiremock/issues/3568) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
+7. ❗ Opened issue [#3568](https://github.com/wiremock/wiremock/issues/3568) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
+8. ℹ️ Labeled issue [#215](https://github.com/sonatype/scan-gradle-plugin/issues/215) in [sonatype/scan-gradle-plugin](https://github.com/sonatype/scan-gradle-plugin)
 <!--END_SECTION:activity-->
 
 <sub>Sections above update themselves daily via GitHub Actions — the pattern from
