@@ -20,11 +20,11 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#112](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/112) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
-2. 🗣 Commented on [#200](https://github.com/BijdorpStudio/kiban/pull/200#issuecomment-5648236129) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-3. 💪 Opened PR [#201](https://github.com/BijdorpStudio/kiban/pull/201) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-4. 🔒 Closed issue [#182](https://github.com/BijdorpStudio/kiban/issues/182) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-5. 🔒 Closed issue [#169](https://github.com/BijdorpStudio/kiban/issues/169) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+1. ℹ️ Labeled issue [#2488](https://github.com/cashapp/paparazzi/issues/2488) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+2. ❗ Opened issue [#2488](https://github.com/cashapp/paparazzi/issues/2488) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+3. ❗ Opened issue [#112](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/112) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
+4. 🗣 Commented on [#200](https://github.com/BijdorpStudio/kiban/pull/200#issuecomment-5648236129) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+5. 💪 Opened PR [#201](https://github.com/BijdorpStudio/kiban/pull/201) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 6. 🔒 Closed issue [#162](https://github.com/BijdorpStudio/kiban/issues/162) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 7. 🔒 Closed issue [#161](https://github.com/BijdorpStudio/kiban/issues/161) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 8. 🔒 Closed issue [#161](https://github.com/BijdorpStudio/kiban/issues/161) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
