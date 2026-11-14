@@ -21,13 +21,13 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#148](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/148) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
-2. 🎉 Merged PR [#245](https://github.com/BijdorpStudio/kiban/pull/245) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-3. 🎉 Merged PR [#241](https://github.com/BijdorpStudio/kiban/pull/241) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-4. 🎉 Merged PR [#233](https://github.com/BijdorpStudio/kiban/pull/233) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-5. 🔒 Closed issue [#214](https://github.com/BijdorpStudio/kiban/issues/214) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-6. 🔒 Closed issue [#222](https://github.com/BijdorpStudio/kiban/issues/222) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-7. 🔒 Closed issue [#224](https://github.com/BijdorpStudio/kiban/issues/224) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-8. 🔒 Closed issue [#220](https://github.com/BijdorpStudio/kiban/issues/220) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+2. 🔒 Closed issue [#214](https://github.com/BijdorpStudio/kiban/issues/214) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+3. 🔒 Closed issue [#222](https://github.com/BijdorpStudio/kiban/issues/222) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+4. 🔒 Closed issue [#224](https://github.com/BijdorpStudio/kiban/issues/224) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+5. 🔒 Closed issue [#220](https://github.com/BijdorpStudio/kiban/issues/220) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+6. 🔒 Closed issue [#223](https://github.com/BijdorpStudio/kiban/issues/223) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+7. 🔒 Closed issue [#221](https://github.com/BijdorpStudio/kiban/issues/221) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+8. 🔒 Closed issue [#219](https://github.com/BijdorpStudio/kiban/issues/219) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 <!--END_SECTION:activity-->
 
 <sub>Sections above update themselves daily via GitHub Actions — the pattern from
