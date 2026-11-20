@@ -20,9 +20,9 @@ Android & Kotlin Multiplatform developer at [Bijdorp Studio](https://bijdorpstud
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#148](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/148) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
-2. 🔒 Closed issue [#214](https://github.com/BijdorpStudio/kiban/issues/214) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
-3. 🔒 Closed issue [#222](https://github.com/BijdorpStudio/kiban/issues/222) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
+1. ❗ Opened issue [#156](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/156) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
+2. ❗ Opened issue [#155](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/155) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
+3. ❗ Opened issue [#148](https://github.com/InsertKoinIO/koin-compiler-plugin/issues/148) in [InsertKoinIO/koin-compiler-plugin](https://github.com/InsertKoinIO/koin-compiler-plugin)
 4. 🔒 Closed issue [#224](https://github.com/BijdorpStudio/kiban/issues/224) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 5. 🔒 Closed issue [#220](https://github.com/BijdorpStudio/kiban/issues/220) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
 6. 🔒 Closed issue [#223](https://github.com/BijdorpStudio/kiban/issues/223) in [BijdorpStudio/kiban](https://github.com/BijdorpStudio/kiban)
